@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph00heusgoog_0008.png"; bbox 0 0 2796 5048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 1746 810 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 1746 810 1937">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 1746 810 1937; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 257 1746 301 1889; x_wconf 80' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 419 1829 810 1937; x_wconf 77' lang='lat' dir='ltr'>1N1T1A</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 165 2166 1064 2265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 165 2166 1064 2265">
+     <span class='ocr_line' id='line_1_2' title="bbox 165 2166 1064 2265; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 165 2166 1064 2265; x_wconf 79' lang='lat' dir='ltr'><strong>PHILOSOPHIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 232 2447 1192 2583">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 232 2447 1192 2583">
+     <span class='ocr_line' id='line_1_3' title="bbox 232 2447 1192 2583; baseline 0.001 -7"><span class='ocrx_word' id='word_1_4' title='bbox 232 2456 913 2583; x_wconf 66' lang='grc' dir='ltr'>ᾈΡιΑΤοΝιοΑΕρ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1084 2484 1087 2489; x_wconf 88' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1186 2447 1192 2457; x_wconf 64' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1402 5048">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1402 5048">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1402 5048; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1402 5048; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

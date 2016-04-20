@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph00heusgoog_0071.png"; bbox 0 0 2796 5048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 683 1844 1343 1928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 683 1844 1343 1928">
+     <span class='ocr_line' id='line_1_1' title="bbox 683 1844 1343 1928; baseline 0.005 -25"><span class='ocrx_word' id='word_1_1' title='bbox 683 1844 732 1904; x_wconf 73' lang='lat' dir='ltr'><strong><em>Es</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 753 1850 804 1907; x_wconf 72' lang='lat' dir='ltr'><strong><em>hoo</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 823 1855 925 1928; x_wconf 82' lang='lat' dir='ltr'><em>igitur</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 943 1847 1084 1906; x_wconf 75' lang='lat' dir='ltr'><strong><em>Platonis</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1104 1857 1191 1925; x_wconf 66' lang='lat' dir='ltr'><em>quasi</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1212 1850 1343 1925; x_wconf 82' lang='lat' dir='ltr'><em>quodam</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 642 1965 1345 2043">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 642 1965 1345 2043">
+     <span class='ocr_line' id='line_1_2' title="bbox 642 1965 1345 2043; baseline 0.006 -23"><span class='ocrx_word' id='word_1_7' title='bbox 642 1971 744 2021; x_wconf 73' lang='lat' dir='ltr'><em>sancto</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 779 1973 962 2043; x_wconf 73' lang='lat' dir='ltr'><strong><em>augustoque</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 984 1965 1075 2037; x_wconf 81' lang='lat' dir='ltr'><em>sonte</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1111 1973 1214 2021; x_wconf 72' lang='lat' dir='ltr'><em>nostra</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1245 1973 1345 2034; x_wconf 68' lang='lat' dir='ltr'><strong><em>omnis</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 522 2078 905 2143">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 522 2078 905 2143">
+     <span class='ocr_line' id='line_1_3' title="bbox 522 2078 905 2143; baseline 0.005 -9"><span class='ocrx_word' id='word_1_12' title='bbox 522 2100 539 2143; x_wconf 66' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 643 2078 779 2135; x_wconf 79' lang='lat' dir='ltr'><em>manabit</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 798 2084 905 2136; x_wconf 82' lang='lat' dir='ltr'><em>oratio.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1025 2241 1184 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1025 2241 1184 2298">
+     <span class='ocr_line' id='line_1_4' title="bbox 1025 2241 1184 2298; baseline -0.006 0"><span class='ocrx_word' id='word_1_15' title='bbox 1025 2241 1184 2298; x_wconf 62' lang='lat' dir='ltr'>C1cnna</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1402 5048">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1402 5048">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1402 5048; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1402 5048; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
